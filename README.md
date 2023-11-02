@@ -7,3 +7,4 @@
 
 ![Mindmap](https://github.com/Elena-Belova/Types-of-testing/assets/148638077/1a74d621-d192-4cc9-88e5-a9a2e4c0fa8b)
 
+<hr>
